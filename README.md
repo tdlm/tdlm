@@ -12,6 +12,8 @@ I have a [site](https://tdlm.github.io/) that goes into more detail about who I 
 
 P.S. If you're curious, you can read about [how I work](https://gist.github.com/tdlm/3cb67429e01212f921aace4e1af100a6).
 
+![](https://komarev.com/ghpvc/?username=tdlm)
+
 <!--
 **tdlm/tdlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
